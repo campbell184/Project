@@ -3,7 +3,7 @@ Navigating through the Minihack Quest-Hard dungeon using Deep Reinforcement Lear
 
 # Environment
 ### Minihack [[repo link](https://github.com/facebookresearch/minihack)]
-In this project, we are using Reinforcement Learing to navigate through the `MiniHack-Quest-Hard-v0`. Navigating through the quest hard dungeon requires many skils in order to get to the goal location. The following tasks needs to be completed in order to solve this problem:
+In this project, we are using Deep Reinforcement Learing to navigate through the `MiniHack-Quest-Hard-v0` dungeon or environment. Navigating through the quest hard dungeon requires many skils in order to get to the goal location. The following tasks needs to be completed in order to solve this problem:
 
 - Exit the maze
 - Crossing the lava river
