@@ -6,14 +6,15 @@ Navigating through the Minihack Quest-Hard dungeon using Deep Reinforcement Lear
 In this project, we are using Reinforcement Learing to navigate through the `MiniHack-Quest-Hard-v0`. Navigating through the quest hard dungeon requires many skils in order to get to the goal location. The following tasks needs to be completed in order to solve this problem:
 
 - Exit the maze
-- Cross the lava river
-- Defeat the boss monster
+- Crossing the lava river
+- Defeating the monster
 - Exit the level at the stairs down
 
 # Models
-### Deep Q-Network
-
-### Advantage Actor Critic
+We used the following models:
+- Deep Q-Network
+- Advantage Actor Critic
+Deep Q-Network is a function approximation method which learns the Value function while Advantage Actor Critic is a policy gradinet method which learns the policy directly instead of the value function. After the experimentation phase, we learned that Advantage Actor Critic performed better than the Deep Q-Network. 
 
 # Running
 The models were run in [[google colab](https://colab.research.google.com/)]. In order to run notebooks:
