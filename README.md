@@ -10,6 +10,9 @@ In this project, we are using Deep Reinforcement Learing to navigate through the
 - Defeating the monster
 - Exit the level at the stairs down
 
+Here is the view of the Environment:
+![Quest-Hard](https://user-images.githubusercontent.com/42907395/141273959-517c8af9-c9b1-4ded-a62f-343b9a631958.png)
+
 # Models
 We used the following models:
 - Deep Q-Network.
